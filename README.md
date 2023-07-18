@@ -1,3 +1,6 @@
+![fcnnn2](https://github.com/s180559/semantic-segmentation-on-pixels-using-FCNN/assets/111356869/e9130389-4b36-4d13-8eea-253df64163bb)
+![Uploading fcnn1.png…]()
+![Uploading fcnn.png…]()
 # semantic-segmentation-on-pixels-using-FCNN
 The problem at hand is the lack of accurate and precise semantic segmentation for road and lane images. Existing methods struggle to classify individual pixels effectively, resulting in inaccurate segmentation and limited understanding of road scenes. This poses challenges in domains like autonomous driving, where reliable segmentation is essential for object detection and obstacle avoidance. The objective of this project is to develop a semantic segmentation model that accurately classifies pixels in road and lane images while effectively addressing these challenges. The aim is to enhance understanding and enable improved autonomous driving systems and other applications relying on precise image segmentation.
 ![image](https://github.com/s180559/semantic-segmentation-on-pixels-using-FCNN/assets/111356869/dbea50ce-f72e-4612-ba4e-2a59b8ba11c5)
